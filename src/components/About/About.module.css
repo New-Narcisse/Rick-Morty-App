@@ -1,0 +1,17 @@
+.me {
+    color: rgb(227, 59, 59);
+    margin-top: 50px;
+    padding-top: 20px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+}
+
+.ab {
+    margin: 10px;
+}
+
+.like {
+    color: rgb(1, 0, 0);
+    text-decoration: none
+}
